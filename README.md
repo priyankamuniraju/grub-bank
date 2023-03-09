@@ -1,4 +1,4 @@
-GrubBank (or Food bank) is a standalone java application to store your favourite food recipes, update or delete them. It can also be used to search recipes based on some search criteria. 
+GrubBank is a standalone java application to store your favourite food recipes, update or delete them. It can also be used to search recipes based on some search criteria. 
 
 Tech or architecture stack - the project is developed using java 11, spring boot, REST API and H2 persistent DB on a high level.
 ### Pre-requisite to run the application : 
