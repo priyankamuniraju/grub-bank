@@ -1,12 +1,11 @@
-# grubbank
-Grub Bank (or Food bank) is a standalone java application to store your favourite food recipes, update or delete them. It can also be used to search recipes based on some search criteria. 
+# GrubBank
+GrubBank (or Food bank) is a standalone java application to store your favourite food recipes, update or delete them. It can also be used to search recipes based on some search criteria. 
 
 Tech or architecture stack - the project is developed using java 11, spring boot, REST API and H2 persistent DB on a high level.
+### Pre-requisite to run the application : 
+Java 11, a REST client like POSTMAN or browser to hit the REST API end points.
 
 ### Step by step guide to run the application - 
-
-Pre-requisite : Java 11, a client like POSTMAN or browser to hit the application end points.
-
 Steps :
 1. Open your terminal and navigate to a desired location on your machine, where you want to place the project (eg : cd Documents)
 3. Here execute the command : git clone https://github.com/priyankamuniraju/grubbank.git
